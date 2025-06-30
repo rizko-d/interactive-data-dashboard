@@ -4,14 +4,17 @@ A React-based interactive data visualization dashboard that displays cryptocurre
 <br>
 
 # Features
-Show live cryptocurrency prices (top 50 coins)
-Filters for search, market cap size
-Sorting options
-Selectable price history timeframes:
-1 hour, 3 hours, 6 hours, 12 hours, 3 days, 7 days
-Light and Dark themes
-Responsive layout for mobile and desktop
-
+<ul>
+<li>Show live cryptocurrency prices (top 50 coins)</li>
+<li>Filters for search, market cap size</li>
+<li>Sorting options</li>
+<li>Selectable price history timeframes:</li>
+<ul>
+  <li>1 hour, 3 hours, 6 hours, 12 hours, 3 days, 7 days</li>
+</ul>
+<li>Light and Dark themes</li>
+<li>Responsive layout for mobile and desktop</li>
+</ul>
 
 <br>
 
