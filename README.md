@@ -17,7 +17,7 @@ Responsive layout for mobile and desktop
 
 
 # Demo
-<img src="https://github.com/rizko-d/interactive-data-dashboard/blob/main/img/demo.pngf">
+<img src="https://github.com/rizko-d/interactive-data-dashboard/blob/main/img/demo.png">
 
 <br>
 
