@@ -1,6 +1,6 @@
 # Interactive Data Dashboard
 A React-based interactive data visualization dashboard that displays cryptocurrency prices, stats, and historical charts with filtering, sorting, and theme support.
-<hr>
+
 <br>
 
 # Features
@@ -12,14 +12,13 @@ Selectable price history timeframes:
 Light and Dark themes
 Responsive layout for mobile and desktop
 
-<hr>
+
 <br>
-<img src="https://github.com/rizko-d/interactive-data-dashboard/tree/main/img" alt="Girl in a jacket" width="500" height="600">
+
 
 # Demo
+<img src="https://github.com/rizko-d/interactive-data-dashboard/blob/main/img/demo.pngf">
 
-
-<hr>
 <br>
 
 # Technologies
