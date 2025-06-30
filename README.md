@@ -14,7 +14,7 @@ Responsive layout for mobile and desktop
 
 <hr>
 <br>
-<img src="img_girl.jpg](https://github.com/rizko-d/interactive-data-dashboard/tree/main/img" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/rizko-d/interactive-data-dashboard/tree/main/img" alt="Girl in a jacket" width="500" height="600">
 
 # Demo
 
