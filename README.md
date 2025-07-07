@@ -19,7 +19,7 @@ A React-based interactive data visualization dashboard that displays cryptocurre
 <br>
 
 
-# Demo
+# Screenshot
 <img src="https://github.com/rizko-d/interactive-data-dashboard/blob/main/img/demo.png">
 
 <br>
